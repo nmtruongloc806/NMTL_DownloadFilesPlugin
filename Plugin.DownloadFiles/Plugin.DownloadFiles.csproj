@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Plugin.DownloadFiles.Abstractions">
+      <HintPath>..\Plugin.DownloadFiles.Abstractions\obj\Debug\netstandard2.0\Plugin.DownloadFiles.Abstractions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
